@@ -1,0 +1,8 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.Rproj
+.Rproj.user
+input/BRUFE250GC_SIR*
+input/BRMUE250GC_SIR*
