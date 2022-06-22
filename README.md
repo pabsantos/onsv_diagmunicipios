@@ -39,4 +39,4 @@ A análise foi dividida de acordo com o porte dos municípios: menor porte, méd
 
 Os gráficos à seguir apresentam os resultados do PCA e clusterização por k-means dos municípios de médio porte, relacionado aos indicadores de resultado final:
 
-<img src="output/pca_a_Médio porte.png" width=50%> <img src="output/clusters_a_Médio porte.png" width=50%>
+<img src="output/pca_a_Médio porte.png" width=50%> <img src="output/cluster_a_Médio porte.png" width=50%>
