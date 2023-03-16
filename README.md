@@ -21,15 +21,15 @@ Estabeleceu-se 3 grupos de indicadores: indicadores de resultado final, indicado
 | Indicador | Sigla | Período | Fonte |
 | --------- | ----- | ------- | ----- |
 | Taxa média de mortes por 100 mil hab. | A1 | 2018 a 2020 | DATASUS |
-| Taxa média de mortes por 10 mil veic. | A2 | 2018 a 2020 | DATASUS; DENATRAN |
+| Taxa média de mortes por 10 mil veic. | A2 | 2018 a 2020 | DATASUS; SENATRAN |
 | Proporção média de mortes de pedestres | A3 | 2018 a 2020 | DATASUS |
 | Proporção média de mortes de ciclistas | A4 | 2018 a 2020 | DATASUS |
 | Proporção média de mortes de motociclistas | A5 | 2018 a 2020 | DATASUS |
-| Idade média da frota | B1 | 2020 | DENATRAN |
-| Proporção de motocicletas na frota | B2 | 2020 | DENATRAN |
+| Idade média da frota | B1 | 2020 | SENATRAN |
+| Proporção de motocicletas na frota | B2 | 2020 | SENATRAN |
 | Taxa de leitos de internação por 100 mil hab. | B3 | 2020 | DATASUS |
 | Taxa de profissionais da saúde por 100 mil hab. | B4 | 2020 | DATASUS |
-| Veículos por mil hab. | C1 | 2020 | DENATRAN; DATASUS |
+| Veículos por mil hab. | C1 | 2020 | SENATRAN; DATASUS |
 | PIB per capita | C2 | 2019 | IBGE; DATASUS |
 | IDH-M | C3 | 2010 | ATLAS-BR |
 
